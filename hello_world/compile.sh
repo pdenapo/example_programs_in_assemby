@@ -1,2 +1,2 @@
-nasm -f elf64 hello.nasm
-ldd hello.o -o hello
+nasm -f elf64 -o hello.o hello.nasm -l hello.lst
+ld hello.o -o hello
