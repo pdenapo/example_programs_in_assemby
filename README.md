@@ -6,6 +6,7 @@
 
 ## Linux system calls
 
-*[Linux system calls](System Calls)
+
 *[System calls table](https://filippo.io/linux-syscall-table/)
+
 *[The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/)
